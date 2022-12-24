@@ -23,38 +23,35 @@ There are several reasons why studying human resource management (HRM) can be be
 
 Human resource management is the planning, organizing, directing, and controlling of the procurement, development, compensation, integration, maintenance and separation of human resource to the end that individual, organizational and social objectives are accomplished.
 
-## Nature of HRM
+## Nature of HRM (I PAP FDI CCB)
 
-1. Inherent part of management- selecting people, training, motivating, appraising their performance for improving their quality.
-2. Pervasive function-present in all levels of mg in an organization
-3. Action oriented-solve problem through rational(balanced) policies rather than
-record keeping
-4. People oriented-HRM is all about people at work. Assign jobs, produce results, reward, motivate them towards improvements in productivity
-5. Future oriented- Effective HRM helps organization meet its goals
-6. Development oriented-HRM develops full potential of employees through reward,
-training, job rotation.
-7. Integrating mechanism: HRM maintains cordial relationship between people working at various levels in organization.
-8. Comprehensive function: Workforce signifies people working at all levels, HRM differs with form & shape but the basic objective of effective utilization of human resource remains the same.
-9. Continuous function: HRM is not a one shot deal it requires constant awareness and alertness of human relations in every day operation.
-10. Based on human relation: Every person has different need, perception and expectations. The manger should give due attention to these factors.
+**I** Inherent part of management: selecting people, training, motivating, appraising their performance for improving their quality.  
+**P** - Pervasive function: present in all levels of mg in an organization.  
+**A** - Action oriented: solve problem through rational(balanced) policies rather than record keeping.  
+**P** - People oriented: HRM is all about people at work. Assign jobs, produce results, reward, motivate them towards improvements in productivity.  
+**F** - Future oriented: Effective HRM helps organization meet its goals.  
+**D** - Development oriented: HRM develops full potential of employees through reward, training, job rotation.   
+**I** - Integrating mechanism: HRM maintains cordial relationship between people working at various levels in organization   
+**C** - Comprehensive function: Workforce signifies people working at all levels, HRM differs with form & shape but the basic objective of effective utilization of human resource remains the same.  
+**C** - Continuous function: HRM is not a one shot deal it requires constant awareness and alertness of human relations in every day operation.  
+**B** - Based on human relation: Every person has different need, perception and expectations. The manger should give due attention to these factors.  
 
-## Scope of HRM
+## Scope of HRM (SHIRT MARRJ)
 
-1. The scope of HRM is indeed vast.
-1. All major activities in the working life of a worker 
-    1. From the time of his/her entry into a organization until he or she leaves come under the preview of HRM
-1. Activities include like
-    1. HRP 
-    2. Job analysis & design
-    3. Recruitment & selection 
-    4. Orientation & placement
-    5. Training & development 
-    6. Performance appraisal & job evaluation
-    7. Employee & executive remuneration
-    8. Motivation & communication
-    9. Welfare
-    10. Safety and health
-    11. Industrial relations
+1. The scope of HRM is indeed vast.    
+1. All major activities in the working life of a worker.  
+1. From the time of his/her entry into a organization until he or she leaves come under the preview of HRM.  
+1. Activities include like.  
+**S** - Social security & Welfare of employees-working conditions, transport, medical assistance etc.   
+**H** - Human resource planning-fill various position.   
+**I** - Industrial labour relation- ensures healthy union mg relationship e.g.: settlement of dispute.  
+**R** - Recruitment & Selection- develop a pool(team) of candidates.  
+**T** - Training & Development- helps in developing key competencies.  
+**M** - Motivation of workforce- develop enthusiastic workforce.  
+**A** - Appraisal of performance-systematic assessment & evaluation of workforce.  
+**R** - Review & audit of personnel policies- ensures reliable HR policies.   
+**R** - Remuneration of employees-focuses on fair, consistent & equitable compensation.  
+**J** - Job Design: define task, assign authority & responsibility. 
 
 ## Nature and scope of HRD
 
