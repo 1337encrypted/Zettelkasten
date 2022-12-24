@@ -2,7 +2,7 @@
 
 ## Why study HRM?
 
->SR
+>SRCES
 
 - Human resource management is the process of managing people in organizations. 
 - It involves recruiting, hiring, training, managing, and motivating employees. 
